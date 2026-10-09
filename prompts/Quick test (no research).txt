@@ -1,0 +1,3 @@
+Do not use web search or any other tools. Answer from general knowledge only, and keep the written answer under 300 words.
+
+Pick the {{COUNT|5}} most important {{TOPIC|programming languages|board games|inventions of the 20th century|films of the 1990s}} for {{AUDIENCE|a beginner|an expert}}. Allocate 100 points across them by importance, with no single item above 40 points, and give one sentence of reasoning per item. End with the list of items and their points, summing to 100.

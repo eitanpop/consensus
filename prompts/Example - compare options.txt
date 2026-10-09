@@ -1,0 +1,5 @@
+I am choosing between options and want a shortlist I can trust.
+
+Give me the top {{COUNT|5}} {{WHAT|laptops|cities to live in|programming languages to learn|board games}} for {{WHO|a beginner|a family|a professional}}, with a budget of {{BUDGET|no fixed budget}}.
+
+Rank them best first. For each one, give the facts that matter for the choice and one sentence on why it made the list. Say clearly which claims you could not verify. Use web search for anything current such as prices or availability.

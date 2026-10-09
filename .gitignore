@@ -1,0 +1,18 @@
+# secrets and per-machine state
+.env
+app_settings.json
+program_instructions.json
+
+# run output (contains your prompts and the models' answers)
+results/
+
+# personal prompts kept out of the public repo; the app still lists them locally
+prompts/Israel high-risk portfolio.txt
+prompts/Best places to live.txt
+prompts/Meditation Practice.txt
+
+# build and cache
+__pycache__/
+build/
+dist/
+*.spec
